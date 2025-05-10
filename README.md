@@ -64,4 +64,4 @@ Output will be saved in the results/ folder as:
 results/scanme.nmap.org_scan.txt
 ```
 
-![Scan Example](screenshots/scan-result.png)
+![Scan Example](screenshots/example.png)
