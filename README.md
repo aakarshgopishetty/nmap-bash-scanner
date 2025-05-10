@@ -63,3 +63,5 @@ Output will be saved in the results/ folder as:
 ```bash
 results/scanme.nmap.org_scan.txt
 ```
+
+![Scan Example](screenshots/scan-result.png)
